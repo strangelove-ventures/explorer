@@ -1,0 +1,31 @@
+{
+    "chain_name": "noble",
+    "coingecko": "love",
+    "api": ["https://api.testnet.noble.strange.love:443"],
+    "rpc": ["https://rpc.testnet.noble.strange.love:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "love",
+    "logo": "/logos/love.jpg",
+    "assets": [{
+        "base": "ulove",
+        "symbol": "LOVE",
+        "exponent": "6",
+        "coingecko_id": "love", 
+        "logo": "/logos/love.jpg"
+    },{
+        "base": "ustake",
+        "symbol": "STAKE",
+        "exponent": "6",
+        "coingecko_id": "stake", 
+        "logo": "/logos/stake.jpg"
+    },{
+        "base": "uusdc",
+        "symbol": "USDC",
+        "exponent": "6",
+        "coingecko_id": "usdc", 
+        "logo": ""
+    }]
+}
