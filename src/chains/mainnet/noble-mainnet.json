@@ -1,19 +1,19 @@
 {
-    "chain_name": "noble",
-    "coingecko": "love",
-    "api": ["https://api.testnet.noble.strange.love:443"],
-    "rpc": ["https://rpc.testnet.noble.strange.love:443"],
+    "chain_name": "noble-1",
+    "coingecko": "FRNZ",
+    "api": ["https://api.mainnet.noble.strange.love:443"],
+    "rpc": ["https://rpc.mainnet.noble.strange.love:443"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.1",
+    "sdk_version": "0.45.13",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "love",
     "logo": "/logos/love.jpg",
     "assets": [{
-        "base": "ulove",
-        "symbol": "LOVE",
+        "base": "ufrienzies",
+        "symbol": "FRNZ",
         "exponent": "6",
-        "coingecko_id": "love", 
+        "coingecko_id": "Frienzies", 
         "logo": "/logos/love.jpg"
     },{
         "base": "ustake",
